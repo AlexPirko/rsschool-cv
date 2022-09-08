@@ -26,7 +26,8 @@ I am 40 years old. I work as a photographer. My previous profession was a techni
 ## Skills
 * HTML5
 * CSS
-* GIT
+* JAVAScript base
+* GIT, GITHub
 * Adobe Photoshop
 
 
